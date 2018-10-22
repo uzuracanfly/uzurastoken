@@ -1,0 +1,2 @@
+# uzz
+UZURAS_TOKEN
